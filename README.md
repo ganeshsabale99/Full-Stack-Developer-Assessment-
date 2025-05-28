@@ -88,10 +88,6 @@ A full-stack web application that demonstrates user authentication, a responsive
 
 ---
 
-## 📸 Demo  
-*Insert a short GIF or screenshots here showing login and dashboard*  
-
----
 
 ## ✍️ Author
 
